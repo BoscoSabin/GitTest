@@ -1,0 +1,3 @@
+Primary-Pink
+Secendary-Yellow
+AscentColor-Black

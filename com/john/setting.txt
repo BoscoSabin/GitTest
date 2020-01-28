@@ -1,2 +1,2 @@
-notification-on
+notification-off
 light-on
